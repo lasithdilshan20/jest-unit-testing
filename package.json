@@ -1,0 +1,23 @@
+{
+  "name": "jest-unit-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sum.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lasithdilshan20/jest-unit-testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lasithdilshan20/jest-unit-testing/issues"
+  },
+  "homepage": "https://github.com/lasithdilshan20/jest-unit-testing#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
